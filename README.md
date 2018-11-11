@@ -1,5 +1,7 @@
 # AirLines
-The project simulates the maintenance of the air company
+Welcome, my dear friends!
+
+The project simulates the maintenance of the air company.
 
 
-This project aimed to train the team-work skills of our young and promising team)))
+The project aimed to train the team-work skills of our young and promising team)))
