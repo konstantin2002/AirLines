@@ -6,6 +6,7 @@ import tables as tb
 class AirCompany:
     def __init__(self, name):
         self.text_name = name
+        self.reputation = "100"
         self.money_balance = 3000000
         self.planes = {}
 
